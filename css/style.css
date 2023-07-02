@@ -5,6 +5,12 @@
     border: 2px solid black;
     }
 
+    .post_image {
+      border: 5px solid black;
+      border-radius: 5px;
+      width: 100%;
+  }
+
     #title, .subtitle, .titlepost {
       color: black;
     }
@@ -35,5 +41,4 @@
       text-transform: capitalize;
        text-align: justify;
     }
-    
     
