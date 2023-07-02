@@ -1,0 +1,39 @@
+.photo {
+    margin-bottom: 15px;
+    border-radius: 50%;
+    width: 200px;
+    border: 2px solid black;
+    }
+
+    #title, .subtitle, .titlepost {
+      color: black;
+    }
+    
+    #title{
+      font-size: 32px;
+      text-transform: uppercase;
+    }
+    
+    .titlepost{
+      font: size 16px;;
+      font-style:italic;
+      text-transform:capitalize;
+      margin: 0px;
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+
+    .post {
+    padding:15px;
+    margin-bottom: 15px;
+    }
+    
+    .post_content {
+      margin: 0px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      text-transform: capitalize;
+       text-align: justify;
+    }
+    
+    
