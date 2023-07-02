@@ -1,7 +1,7 @@
 <a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/"> Prévia de Portfolio em formato blog </a> 
 <br>
 Prévia Oficina <br>
-<img width="960" alt="oficinaDeRobótica" src="https://raw.githubusercontent.com/eduardosaatkamp/PortfolioEduardoSaatkamp/main/previaRobotica.PNG">
+<img width="960" alt="oficinaDeRobótica" src="https://github.com/eduardosaatkamp/portfolioEduardoSaat/assets/24586322/183c48ff-a4b5-4df4-b707-e4f9f91202d7">
 <br>
 O site foi elaborado como parte de um curso, seguindo um formato de blog, com o objetivo de proporcionar aprendizado sobre o uso de tags semânticas em HTML, a personalização de trechos do site por meio de classes CSS e a inclusão de funcionalidades em JavaScript através de scripts. No processo de desenvolvimento, foram aplicados conhecimentos relacionados a links, divs, uso de imagens e outros elementos.
 
