@@ -1,5 +1,3 @@
-<a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/"> Prévia de Portfolio em formato blog </a> 
-<br>
 Prévia Oficina <br>
 <img width="960" alt="oficinaDeRobótica" src="https://github.com/eduardosaatkamp/portfolioEduardoSaat/assets/24586322/183c48ff-a4b5-4df4-b707-e4f9f91202d7">
 <br>
@@ -8,4 +6,7 @@ O site foi elaborado como parte de um curso, seguindo um formato de blog, com o 
 Além disso, o site está em constante aprimoramento, com planos de adicionar mais páginas, como uma seção de cursos em andamento, e atualizar os meios de contato. No momento, ele abrange informações sobre cursos concluídos, disciplinas cursadas e a experiência em robótica.
 
 As habilidades trabalhadas no site incluem o uso de tags semânticas para estruturar e organizar o conteúdo, a aplicação de classes CSS para estilização personalizada, a manipulação de imagens para melhor apresentação visual e a criação de links para uma navegação intuitiva. Essas práticas visam proporcionar uma experiência de usuário agradável, além de promover a usabilidade e a acessibilidade do site.
+
+<a href="https://github.com/eduardosaatkamp/personalPorfolio/"> Visite essa versão também. </a> 
+
 
