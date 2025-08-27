@@ -8,6 +8,15 @@ Além disso, o site está em constante aprimoramento, com planos de adicionar ma
 As habilidades trabalhadas no site incluem o uso de tags semânticas para estruturar e organizar o conteúdo, a aplicação de classes CSS para estilização personalizada, a manipulação de imagens para melhor apresentação visual e a criação de links para uma navegação intuitiva. Essas práticas visam proporcionar uma experiência de usuário agradável, além de promover a usabilidade e a acessibilidade do site.
 
 <a href="https://github.com/eduardosaatkamp/personalPorfolio/"> Visite a versão React em desenvolvimento também. </a> <br>
-<a href="https://github.com/ZackSchetine/conversor-react"> Conheça também o projeto de "conversor de unidades" em React realizado em parceria. </a> 
+<a href="https://github.com/ZackSchetine/conversor-react"> Conheça também o projeto de "conversor de unidades" em React realizado em parceria. </a>
+
+
+## Como executar
+
+```bash
+npm install
+npx gulp
+npx gulp dev
+```
 
 
